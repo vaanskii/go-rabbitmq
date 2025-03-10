@@ -13,7 +13,9 @@ This project demonstrates a `Go` Producer and Consumer using `RabbitMQ.`
 
 
 ### Setup
-  -  Install dependencies:
-    go mod tidy
+- Install dependencies:
+```bash
+  go mod tidy
+```
 
   - Run the Producer and Consumer.
